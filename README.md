@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @uzainmubarak
-- 👀 I’m interested in Fullstack web development.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m a React Front-end developer.
 - 📫 How to reach me ... uzainmubarak07@gmail.com
 
 <!---
