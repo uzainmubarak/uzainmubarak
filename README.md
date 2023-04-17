@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uzainmubarak
-- 👀 I’m a React Front-end developer.
+- 👀 I’m a Full-stack React developer.
 - 📫 How to reach me ... uzainmubarak@gmail.com
 
 <!---
