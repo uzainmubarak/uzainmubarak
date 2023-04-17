@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzainmubarak
 - 👀 I’m a React Front-end developer.
-- 📫 How to reach me ... uzainmubarak07@gmail.com
+- 📫 How to reach me ... uzainmubarak@gmail.com
 
 <!---
 uzainmubarak/uzainmubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
