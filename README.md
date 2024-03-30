@@ -21,7 +21,7 @@ I'm a passionate web developer committed to crafting exceptional digital experie
 
 Let's collaborate and build something amazing together! 🚀🔧
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/uzain-mubarak/) 🌐
+Connect with me on [LinkedIn](https://www.linkedin.com/in/uzain-mubarak-a231401b3/) 🌐
 
 <!---
 uzainmubarak/uzainmubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
