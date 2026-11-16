@@ -1,29 +1,18 @@
-# Hi there, I'm Uzain! 👋 🚀
+# It's Uzain! 👋 🚀
 
-I'm a passionate web developer committed to crafting exceptional digital experiences. My focus lies in creating efficient and readable code to ensure seamless project execution. Speed and performance are key in my development approach. I optimize websites for lightning-fast loading by eliminating unnecessary code.
-
-💡 I prioritize user experience, delving into real-world problems to meet users' expectations. Every problem is a technical challenge for me. I dive deep, ensuring precise solutions tailored to your project's unique needs.
+A developer who uses AI to get the tasks done. Working on dad's business so coding is only fun yk!
+💡 Priorities:
+- User Experience
+- User Experience
+- User Experience
 
 ## My Skills:
 
-- React/Next.js
-- Tailwind CSS
-- HTML / CSS
-- JavaScript / TypeScript
-- Node.js
-- MongoDB / MySQL / PostgreSQL
-
-## State Management Expertise:
-
-- Recoil
-- Zustand
-- Redux
+- Chatting with AI
+- Coding with AI
+- Controlling AI
 
 Let's collaborate and build something amazing together! 🚀🔧
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/uzain-mubarak-a231401b3/) 🌐
-
-<!---
-uzainmubarak/uzainmubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Email me](mailto:uzainmubarak@gmail.com)
