@@ -10,7 +10,7 @@ A developer who uses AI to get the tasks done. Working on dad's business so codi
 
 - Chatting with AI
 - Coding with AI
-- Controlling AI
+- Controlling AI 💀
 
 Let's collaborate and build something amazing together! 🚀🔧
 
